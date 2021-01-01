@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-lg navbar-light">
     <div class="container">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">Kulineran</a>
+        <a class="navbar-brand" href="/">Kulineran</a>
         <button
           class="navbar-toggler"
           type="button"

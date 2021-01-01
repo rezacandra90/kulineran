@@ -10,9 +10,9 @@
                 in your gadget
               </h2>
               <p>Ayo pilih makanan favorit anda, dan pesanlah sekarang</p>
-              <button class="btn btn-lg btn-success">
+              <router-link class="btn btn-lg btn-success" to="/foods">
                 Pesan <b-icon-arrow-bar-right></b-icon-arrow-bar-right>
-              </button>
+              </router-link>
             </div>
           </div>
           <div class="col-md-6 d-flex align-items-center">
