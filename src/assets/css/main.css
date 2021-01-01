@@ -13,3 +13,20 @@
 .badge-success{
     background-color: #0ffc0f;
 }
+
+.breadcrumb{
+    background-color: transparent;
+}
+
+.breadcrumb-item.active{
+    font-weight: bold;
+    color: yellowgreen;
+}
+
+.img-fluid{
+    border-radius: 15px;
+}
+
+.footer-fluid{
+    background-color: #0ffc0f;
+}

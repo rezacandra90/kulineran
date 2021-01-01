@@ -1,9 +1,8 @@
 <template>
-  <footer class="mt-4 mb-4">
-      <hr>
+  <footer class="mt-4 fixed-bottom footer-fluid" style="height: 70px">
       <div class="container">
           <div class="row text-center">
-              <div class="col">copyright@2020 RezaCan</div>
+              <div class="col text-white pt-4 align-self-center">copyright@2020 RezaCan</div>
           </div>
       </div>
   </footer>

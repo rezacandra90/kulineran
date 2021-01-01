@@ -17,6 +17,9 @@
 
       <BestFoods/>
     </div>
+    <div class="mt-4 mb-4" style="height: 50px">
+      <hr>
+    </div>
     <Footer/>
   </div>
 </template>
