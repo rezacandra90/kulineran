@@ -1,7 +1,7 @@
 <template>
   <div class="FoodDetail">
     <Navbar />
-    <div class="container">
+    
       <!-- Breadcrumb -->
       <div class="row mt-4">
         <div class="col">
@@ -55,7 +55,7 @@
           </button>
         </div>
       </div>
-    </div>
+    
     <Footer />
   </div>
 </template>

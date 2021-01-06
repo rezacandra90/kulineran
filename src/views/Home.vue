@@ -1,7 +1,7 @@
 <template>
   <div class="home">
       <Navbar />
-    <div class="container">
+    
       <Hero />
 
       <div class="row mx-auto mb-4">
@@ -16,7 +16,7 @@
       </div>
 
       <BestFoods/>
-    </div>
+
     <div class="mt-4 mb-4" style="height: 50px">
       <hr>
     </div>

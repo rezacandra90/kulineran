@@ -1,12 +1,10 @@
 <template>
   <div>
     <Navbar />
-    <div class="container">
-      <div class="ml-3 mr-3">
-        <h1>Foods List</h1>
+
+    <div class="ml-3 mr-3">
+      <h1>Foods List</h1>
       <AllFood />
-        
-      </div>
     </div>
   </div>
 </template>
